@@ -2,6 +2,9 @@ opentelemetry-demo:
   components:
     frontend:
       enabled: true
+
+    flagd:
+      enabled: true
   
   grafana:
     enabled: true
