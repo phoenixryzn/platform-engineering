@@ -1,0 +1,16 @@
+opentelemetry-demo:
+  components:
+    frontend:
+      enabled: true
+  
+  grafana:
+    enabled: true
+  
+  jaeger:
+    enabled: true
+
+  prometheus:
+    enabled: true
+
+  opensearch:
+    enabled: false
